@@ -12,4 +12,10 @@ import './bootstrap';
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
+import './component/index';
+import './component/admin';
+import './component/products    ';
+import './component/index';
+import './component/index';
+
 import './components/Example';
